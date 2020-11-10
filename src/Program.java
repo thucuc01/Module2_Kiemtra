@@ -48,6 +48,7 @@ public class Program {
                     }
                     break;
                 case "7":
+
                     check=false;
                     System.out.println("________________Exit_________________");
                     break;
